@@ -1,3 +1,4 @@
+[![Build Status](https://sita-pse.visualstudio.com/Messaging/_apis/build/status%2FAislanWendling.js-e2e-express-server?branchName=main)](https://sita-pse.visualstudio.com/Messaging/_build/latest?definitionId=13916&branchName=main)
 ---
 page_type: sample
 languages:
